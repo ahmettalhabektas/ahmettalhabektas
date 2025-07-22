@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmet Talha Bektaş
 ==========================================================================================================================================
 
-R&D Leader at ITU Data Science Club
+ITU Astronautical Engineering Student
 -----------------------------------
 
 I have a strong passion for artificial intelligence and data science, and I am deeply committed to shaping my career within these domains. My GitHub profile serves as a platform where I share the various projects I have undertaken in this field. As a student at Istanbul Technical University, pursuing a degree in Aerospace Engineering, I am dedicated to furthering my knowledge and expertise in these innovative and rapidly evolving fields.
